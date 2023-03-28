@@ -1,6 +1,3 @@
-“Estos son los comandos utilizados para sincronizar repositorios remotos y locales:
+Check this out
 
-1. Git remote
-2. Git clone
-3. Git push
-4. Git pull”
+Milio
